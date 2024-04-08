@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/playlist?list=PLFo6MW4q69PxuLT9bc5furp4GvDnIM-iR)
+[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/@MobileAppsAcademy?sub_confirmation=1)
 
 A shimmer effect, Developed using SwiftUI.
 
